@@ -5,7 +5,7 @@ import java.util.List;
 import change.crm.model.Chance;
 import change.crm.model.QueryVo;
 /**
- * 销售机会表
+ * 销售机会表1
  */
 public interface ChanceMapper {
 	
