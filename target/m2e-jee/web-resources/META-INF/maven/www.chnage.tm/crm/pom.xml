@@ -36,7 +36,7 @@
 			<version>1.2</version>
 		</dependency>
 
-		<!-- 引入jsp的api的坐标 -->
+		<!-- 引入jsp的api的坐标- -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jsp-api</artifactId>
